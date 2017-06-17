@@ -1,13 +1,11 @@
 {
   "name": "git-plunder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plunder a git url. Don't use it.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "j3lte <jwlagendijk@gmail.com>",
-  "license": "MIT",
   "bin": {
     "git-plunder": "./bin/git-plunder"
   },
@@ -26,7 +24,7 @@
   },
   "readmeFilename": "README.md",
   "author": {
-    "name": "J.W. Lagendijk",
+    "name": "j3lte",
     "email": "jwlagendijk@gmail.com"
   },
   "licenses": [
