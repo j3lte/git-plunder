@@ -1,0 +1,38 @@
+{
+  "name": "git-plunder",
+  "version": "1.0.0",
+  "description": "Plunder a git url. Don't use it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "j3lte <jwlagendijk@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "git-plunder": "./bin/git-plunder"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/j3lte/git-plunder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/j3lte/git-plunder/issues"
+  },
+  "dependencies": {
+    "fs-extra": "^3.0.1",
+    "meow": "^3.7.0",
+    "node-spider": "https://github.com/j3lte/node-spider.git",
+    "simple-git": "^1.73.0"
+  },
+  "readmeFilename": "README.md",
+  "author": {
+    "name": "J.W. Lagendijk",
+    "email": "jwlagendijk@gmail.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.githubusercontent.com/j3lte/git-plunder/master/LICENSE"
+    }
+  ]
+}
