@@ -1,4 +1,4 @@
-# git-plunder
+git-plunder
 ===========
 
 [![NPM](https://nodei.co/npm/git-plunder.svg?downloads=true&stars=true)](https://nodei.co/npm/git-plunder/)
