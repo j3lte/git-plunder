@@ -5,7 +5,7 @@ git-plunder
 
 
 # What IS this?
-This will download a `.git` folder from an URL and then restores the Documented the thingDocumented the thingcode. First version.
+This will download a `.git` folder from an URL and then restores the code. First version.
 
 This is a proof-of-concept tool for this [article](https://blog.paradoxis.nl/git-clone-a-devil-in-disguise-2eff400e93d2).
 
